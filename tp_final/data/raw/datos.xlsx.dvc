@@ -1,0 +1,5 @@
+outs:
+- md5: fb8a57aa317b02ac94e5e6f5a5a44541
+  size: 42419
+  hash: md5
+  path: datos.xlsx
